@@ -1,0 +1,9 @@
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\bin\Release\Internet locker.exe.config
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\bin\Release\Internet locker.exe
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\bin\Release\Internet locker.pdb
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Release\Internet_locker.Form1.resources
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Release\Internet_locker.Properties.Resources.resources
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Release\Internet locker.csproj.GenerateResource.Cache
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Release\Internet locker.exe
+C:\Users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Release\Internet locker.pdb
+C:\Users\shaya\OneDrive\Documents\Visual Studio 2015\Projects\Internet locker\Internet locker\obj\Release\Internet locker.csprojResolveAssemblyReference.cache
