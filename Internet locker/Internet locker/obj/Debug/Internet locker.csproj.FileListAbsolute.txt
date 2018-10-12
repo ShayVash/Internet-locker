@@ -7,3 +7,13 @@ c:\users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\In
 c:\users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Debug\Internet locker.csproj.GenerateResource.Cache
 c:\users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Debug\Internet locker.exe
 c:\users\shaya\onedrive\documents\visual studio 2015\Projects\Internet locker\Internet locker\obj\Debug\Internet locker.pdb
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\bin\Debug\Internet locker.exe.config
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.exe
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.pdb
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\bin\Debug\Internet locker.exe
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\bin\Debug\Internet locker.pdb
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.csprojResolveAssemblyReference.cache
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.Properties.Resources.resources
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.csproj.GenerateResource.Cache
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.Controls.resources
+C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.SetPassword.resources
