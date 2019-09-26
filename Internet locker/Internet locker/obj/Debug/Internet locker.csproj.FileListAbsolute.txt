@@ -17,3 +17,13 @@ C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\o
 C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.csproj.GenerateResource.Cache
 C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.Controls.resources
 C:\Users\Shay\Documents\GitHub\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.SetPassword.resources
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\bin\Debug\Internet locker.exe.config
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\bin\Debug\Internet locker.exe
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\bin\Debug\Internet locker.pdb
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.csprojResolveAssemblyReference.cache
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.Controls.resources
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.Properties.Resources.resources
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet_locker.SetPassword.resources
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.csproj.GenerateResource.Cache
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.exe
+C:\Users\shay\Documents\GitHub\fancytexy\FancyText Graphics\Internet-locker\Internet locker\Internet locker\obj\Debug\Internet locker.pdb

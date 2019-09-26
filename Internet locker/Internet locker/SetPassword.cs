@@ -30,7 +30,6 @@ namespace Internet_locker
             Title.Left = (this.Width / 2) - (Title.Width / 2) - 14;
             PasswordBox.Left = (this.Width / 2) - (PasswordBox.Width / 2) - 14;
             Done.Left = (this.Width / 2) - (Done.Width / 2) - 14;
-
             
         }
         private void SetUserPassword(object sender, EventArgs e)

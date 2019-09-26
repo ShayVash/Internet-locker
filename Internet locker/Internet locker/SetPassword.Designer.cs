@@ -40,6 +40,7 @@
             this.PasswordBox.Name = "PasswordBox";
             this.PasswordBox.Size = new System.Drawing.Size(120, 20);
             this.PasswordBox.TabIndex = 0;
+            this.PasswordBox.UseSystemPasswordChar = true;
             // 
             // Title
             // 
